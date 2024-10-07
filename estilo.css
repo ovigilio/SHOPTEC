@@ -13,12 +13,12 @@ body{
     padding: 50px;
 }
 .contenedor{
-    background-color: #ffebc1;
-    max-width: 1200px;
+    background-color: #ba88e6;
+    max-width: 1800px;
     margin: auto;
-    padding: 40px;
+    padding: 30px;
     border-radius: 40px;
-    border: 5px solid #fff;
+    border: 5px solid #980aab;
 }
 /* Enabezado Principal */
 .contenedor header{
@@ -117,7 +117,7 @@ body{
 .contenedor-seccion .inicio .col .titulo-inicio{
    line-height: 40px;
    font-size: 30px;
-   color: #444;
+   color: #efecec;
    margin-bottom: 15px;
 }
 .contenedor-seccion .inicio .col .buscador{
